@@ -8,4 +8,4 @@ Quickly create embeddings from CSV file using OpenAI
    ```bash
    pip install
 
-2. Run script in Colab. See colab-script.ipynb. This uses your Google Drive to store the files.
+2. Run script in Colab. See colab-script.ipynb. This uses your Google Drive to store files.
