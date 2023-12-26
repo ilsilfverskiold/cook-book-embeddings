@@ -5,9 +5,4 @@ See tutorial [here.](https://medium.com/gitconnected/quickly-build-a-chatgpt-sla
 
 ## Options
 
-1. Run script.py locally.
-   
-   ```bash
-   pip install
-
-2. Run script in Colab. See colab-script.ipynb. This uses your Google Drive to store files.
+Run script in Colab. See colab-script.ipynb. This uses your Google Drive to store files.
